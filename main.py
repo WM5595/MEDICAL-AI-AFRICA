@@ -1,0 +1,1 @@
+print("AI Medicl Assistant for Africa")
